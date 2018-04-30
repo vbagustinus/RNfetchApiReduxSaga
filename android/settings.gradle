@@ -1,0 +1,3 @@
+rootProject.name = 'RNfetchApiReduxSaga'
+
+include ':app'
